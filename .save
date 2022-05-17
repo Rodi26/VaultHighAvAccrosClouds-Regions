@@ -1,0 +1,20 @@
+s.N5hSd3zCJNg6oJFc19nWd6D1
+
+key                Value
+---                -----
+lease_id           database/creds/product-api/iXAuaHHh4y080pLQEy5vty8r
+lease_duration     30m
+lease_renewable    true
+password           F-ANODSlZw1CC6XTCcvm
+username           v-root-product--RHIsbSDkRVtprniQkAZ4-1652803552
+
+oot@vault1:~# cat /vault/vault1/root-token
+s.N5hSd3zCJNg6oJFc19nWd6D1
+root@vault1:~# cat /vault/vault2/root-token
+s.SnopX25OGtG6I3eq2GYtUyBP
+root@vault1:~# 
+
+
+b.AAAAAQLK1BCE0srpZGhoN4Kra7vCRYiM0MXpYVnbhvvCzXSFtmFlvQV7RHk5ATkRc8X5aQJ0s6iW95Wi1tQOrjgeG1cwOEvPTBInKY63Se2G-NLbtvpUR5pPVeA6KiGluxOHIuMhnMhs7vT78w
+
+Initial Root Token: s.N5hSd3zCJNg6oJFc19nWd6D1
